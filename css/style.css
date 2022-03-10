@@ -1,0 +1,24 @@
+body {
+    margin: 30px 300px 0 300px;
+    padding: 10px;
+    font-family: Vollkorn, serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 20px;
+    font-style: italic;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+.chorus {
+    margin-left: 40px;
+    font-style: italic;
+}
